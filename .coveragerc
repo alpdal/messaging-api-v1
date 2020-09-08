@@ -1,0 +1,14 @@
+[run]
+omit = 
+    api/migrations/*
+    api/apps.py
+    api/tests.py
+    api/admin.py
+
+
+[report]
+omit = 
+    api/migrations/*
+    api/apps.py
+    api/tests.py
+    api/admin.py
